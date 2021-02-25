@@ -1,5 +1,9 @@
 # Compito Corso Fuzzy 
 
+@settings
+{ 
+  font-size:100
+}
 
 ![alt text](https://github.com/LinghGroove/CompitoCorsoFuzzy/blob/main/logo.png)
 
