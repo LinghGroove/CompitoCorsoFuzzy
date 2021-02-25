@@ -1,16 +1,12 @@
 # Compito Corso Fuzzy
 
-                                                                                                                              
-88                                    88                             88888888888                                              
-88                                    ""                             88                                                       
-88                                                                   88                                                       
-88           ,adPPYba,    ,adPPYb,d8  88   ,adPPYba,  ,adPPYYba,     88aaaaa  88       88  888888888  888888888  8b       d8  
-88          a8"     "8a  a8"    `Y88  88  a8"     ""  ""     `Y8     88"""""  88       88       a8P"       a8P"  `8b     d8'  
-88          8b       d8  8b       88  88  8b          ,adPPPPP88     88       88       88    ,d8P'      ,d8P'     `8b   d8'   
-88          "8a,   ,a8"  "8a,   ,d88  88  "8a,   ,aa  88,    ,88     88       "8a,   ,a88  ,d8"       ,d8"         `8b,d8'    
-88888888888  `"YbbdP"'    `"YbbdP"Y8  88   `"Ybbd8"'  `"8bbdP"Y8     88        `"YbbdP'Y8  888888888  888888888      Y88'     
-                          aa,    ,88                                                                                 d8'      
-                           "Y8bbdP"                                                                                 d8'       
+888                        ,e,                   888'Y88                                   
+888      e88 88e   e88 888  "   e88'888  ,"Y88b  888 ,'Y 8888 8888 8P d8P 8P d8P Y8b Y888P 
+888     d888 888b d888 888 888 d888  '8 "8" 888  888C8   8888 8888 P d8P  P d8P   Y8b Y8P  
+888  ,d Y888 888P Y888 888 888 Y888   , ,ee 888  888 "   Y888 888P  d8P d  d8P d   Y8b Y   
+888,d88  "88 88"   "88 888 888  "88,e8' "88 888  888      "88 88"  d8P d8 d8P d8    888    
+                    ,  88P                                                          888    
+                   "8",P"                                                           888    
 
 All'interno della seguente repository sono presenti i contenuti sviluppati durante il corso di logica Fuzzy del master [IFTS tecnico per la sicurezza delle reti e dei sistemi](https://www.scuolalatecnica.it/ifts) 2020 - 2021.
 
