@@ -1,6 +1,5 @@
 # Compito Corso Fuzzy 
-  
-![alt text](Geometrix_Tablet_4__800_800.png)
+<div style="background-image: url(Geometrix_Tablet_4__800_800.png);">
 
 In questa repository sono presenti i contenuti sviluppati durante il corso di logica Fuzzy del master [IFTS Tecnico per la sicurezza delle reti e dei sistemi](www.scuolalatecnica.it/ifts).
   
