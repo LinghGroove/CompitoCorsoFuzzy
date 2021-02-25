@@ -3,7 +3,6 @@
 
 ![alt text](https://github.com/LinghGroove/CompitoCorsoFuzzy/blob/main/logo.png)
 
-<h4>
 
 In questa repository sono presenti i contenuti sviluppati durante il corso di logica Fuzzy del master [IFTS Tecnico per la sicurezza delle reti e dei sistemi](www.scuolalatecnica.it/ifts)
   
@@ -17,4 +16,3 @@ Contenuti della repository:
 Carlo Ruggiero 
 25/02/2021
 
-</h4>
