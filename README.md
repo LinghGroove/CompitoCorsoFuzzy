@@ -10,4 +10,5 @@ Contenuti della repository:
 * Connettivi Logici implementati tramite Python
 * Funzioni di verità 
 
-
+Carlo Ruggiero 
+25/02/2021
