@@ -1,6 +1,6 @@
 # Compito Corso Fuzzy 
   
-![alt text](https://github.com/LinghGroove/CompitoCorsoFuzzy/blob/main/logo.png)
+![alt text](Geometrix_Tablet_4__800_800.png)
 
 In questa repository sono presenti i contenuti sviluppati durante il corso di logica Fuzzy del master [IFTS Tecnico per la sicurezza delle reti e dei sistemi](www.scuolalatecnica.it/ifts).
   
