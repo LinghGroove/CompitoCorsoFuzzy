@@ -1,7 +1,7 @@
 # Compito Corso Fuzzy 
 
 
-<div align="center">![alt text](https://github.com/LinghGroove/CompitoCorsoFuzzy/blob/main/logo.png)</div>
+<div align="center"> <image="https://github.com/LinghGroove/CompitoCorsoFuzzy/blob/main/logo.png"></div>
 
 <h3>
   
